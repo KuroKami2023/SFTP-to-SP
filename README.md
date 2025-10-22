@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SFTP → SharePoint Uploader Setup Guide
 
 This guide walks you through setting up your environment, Docker configuration, and the required `.env` file to run the **SFTP SharePoint Uploader**.
