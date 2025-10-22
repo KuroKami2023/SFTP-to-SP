@@ -1,0 +1,8 @@
+.env
+__pycache__
+.venv
+downloaded
+anz_auth.py
+
+private_key.pem
+public_key.pem
